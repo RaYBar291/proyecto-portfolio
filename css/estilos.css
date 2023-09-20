@@ -1,0 +1,14 @@
+h1 {
+    color: blueviolet;
+    font-style: italic;
+    background-color: aqua;
+}
+
+div {
+    background-color: chocolate;
+}
+
+img {
+    width: 500px;
+    height: 500px;
+}
